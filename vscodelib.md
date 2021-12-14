@@ -1,6 +1,11 @@
 
+# Visual Studio Code 
+> VS CODE EXTENSION.
+> - Javascript
+> - Node.js
+> 
 
-# Visual Studio Code LIBRARY VS CODE EXTENSION
+*Name*
 **Name: Beautify**
 Id: hookyqr.beautify
 Description: Beautify code in place for VS Code
@@ -21,4 +26,11 @@ Description: Material Design Icons for Visual Studio Code
 Version: 4.11.0
 Publisher: Philipp Kief
 VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme
+
+**Name: Bracket Pair Colorizer**
+Id: coenraads.bracket-pair-colorizer
+Description: A customizable extension for colorizing matching brackets
+Version: 1.0.62
+Publisher: CoenraadS
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer
 
