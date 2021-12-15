@@ -3,7 +3,7 @@ node -v
 npx -v
 npm -v
 
-angular 12.0
+**angular 12.0**
 **check**
 ng version
 **install**
@@ -14,5 +14,7 @@ where mysql
 **insall**
 xampp,mamp
 mysql -P 3333 -u root -p
+
+
 
 
