@@ -3,9 +3,15 @@
 > VS CODE EXTENSION.
 > - Javascript
 > - Node.js
-> 
 
-*Name*
+
+**Name: JavaScript (ES6) code snippets**
+*Id: xabikos.javascriptsnippets*
+Description: Code snippets for JavaScript in ES6 syntax
+Version: 1.8.0
+Publisher: charalampos karypidis
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets
+
 **Name: Beautify**
 Id: hookyqr.beautify
 Description: Beautify code in place for VS Code
